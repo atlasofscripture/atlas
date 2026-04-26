@@ -852,3 +852,169 @@ a:hover {
 .detail__citations--compact ul {
   font-size: 11px;
 }
+
+/* ============== Mobile toggle buttons (hidden on desktop) ============== */
+
+.app-header__mobile-btn {
+  display: none;
+}
+
+/* ============== Overlay backdrop ============== */
+
+.app-overlay {
+  display: none;
+}
+
+/* ============================================================
+   Responsive — mobile-first globe
+   At <=768px the globe fills the viewport; sidebars become
+   slide-over drawers toggled from the header.
+   ============================================================ */
+
+@media (max-width: 768px) {
+  :root {
+    --header-h: 48px;
+    --footer-h: 64px;
+  }
+
+  /* --- Layout --- */
+  .app-main {
+    grid-template-columns: 1fr;
+  }
+
+  /* --- Sidebar drawers --- */
+  .app-sidebar {
+    position: fixed;
+    top: var(--header-h);
+    bottom: var(--footer-h);
+    left: 0;
+    width: 300px;
+    max-width: 85vw;
+    z-index: 50;
+    transform: translateX(-100%);
+    transition: transform 0.25s ease;
+  }
+  .app-sidebar--right {
+    left: auto;
+    right: 0;
+    transform: translateX(100%);
+  }
+  .app-sidebar--open {
+    transform: translateX(0);
+  }
+
+  /* --- Overlay --- */
+  .app-overlay {
+    display: block;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 40;
+  }
+
+  /* --- Header compact --- */
+  .app-header {
+    padding: 0 12px;
+    gap: 8px;
+  }
+  .app-header__brand {
+    gap: 8px;
+    min-width: 0;
+  }
+  .app-header__mark {
+    font-size: 18px;
+  }
+  .app-header__title {
+    font-size: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .app-header__subtitle {
+    display: none;
+  }
+  .app-header__nav {
+    display: none;
+  }
+  .app-header__year {
+    padding: 4px 10px;
+  }
+  .app-header__year-label {
+    display: none;
+  }
+  .app-header__year-value {
+    font-size: 14px;
+  }
+
+  /* --- Mobile toggle buttons --- */
+  .app-header__mobile-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    background: transparent;
+    border: 1px solid var(--border-soft);
+    border-radius: 2px;
+    color: var(--vellum-soft);
+    font-size: 18px;
+    transition: color 0.15s, border-color 0.15s;
+  }
+  .app-header__mobile-btn:hover,
+  .app-header__mobile-btn:active {
+    color: var(--gold);
+    border-color: var(--gold);
+  }
+
+  /* --- Timeline compact --- */
+  .timeline {
+    padding: 8px 12px;
+    gap: 10px;
+  }
+  .timeline__eras {
+    display: none;
+  }
+  .timeline__ticks {
+    display: none;
+  }
+  .timeline__track-wrap {
+    height: 40px;
+  }
+  .timeline__slider {
+    top: 10px;
+  }
+  .timeline__cursor-label {
+    top: -6px;
+    font-size: 9px;
+    padding: 1px 6px;
+  }
+  .timeline__btn {
+    width: 32px;
+    height: 32px;
+    font-size: 12px;
+  }
+  .timeline__speed {
+    font-size: 10px;
+    padding: 3px 6px;
+  }
+
+  /* --- Entity detail panel --- */
+  .detail {
+    left: 8px;
+    right: 8px;
+    top: auto;
+    bottom: 8px;
+    width: auto;
+    max-height: 50%;
+  }
+
+  /* --- Reader adjustments --- */
+  .reader__columns {
+    grid-template-columns: 1fr;
+  }
+  .reader__column + .reader__column {
+    border-left: none;
+    border-top: 1px solid var(--border-faint);
+  }
+}

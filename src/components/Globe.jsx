@@ -69,9 +69,9 @@ export default function Globe() {
     viewer.scene.fog.enabled = true;
     viewer.scene.globe.atmosphereLightIntensity = 7.0;
 
-    // Center on the ancient Near East — the heart of biblical geography
+    const altitude = window.innerWidth <= 768 ? 6_500_000 : 4_500_000;
     viewer.camera.setView({
-      destination: Cesium.Cartesian3.fromDegrees(35.2, 31.5, 4_500_000)
+      destination: Cesium.Cartesian3.fromDegrees(35.2, 31.5, altitude)
     });
 
     // Click handler for entity selection
