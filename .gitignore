@@ -7,3 +7,9 @@ dist/
 .vscode/
 .idea/
 data-built/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
