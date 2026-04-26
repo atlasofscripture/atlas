@@ -1,0 +1,26 @@
+# Berean Standard Bible
+# Public domain — released by the Berean Bible translation committee.
+# https://berean.bible
+
+translation: BSB
+license: public domain
+
+passages:
+  Acts/13:
+    verses:
+      - { number: 1, text: "Now in the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (who had been brought up with Herod the tetrarch), and Saul." }
+      - { number: 2, text: "While they were worshiping the Lord and fasting, the Holy Spirit said, \"Set apart for Me Barnabas and Saul for the work to which I have called them.\"" }
+      - { number: 3, text: "And after they had fasted and prayed, they laid their hands on them and sent them off." }
+      - { number: 4, text: "So Barnabas and Saul, sent forth by the Holy Spirit, went down to Seleucia and sailed from there to Cyprus." }
+      - { number: 5, text: "When they arrived at Salamis, they proclaimed the word of God in the Jewish synagogues, and John was with them as their helper." }
+      - { number: 6, text: "They traveled through the whole island as far as Paphos, where they found a Jewish sorcerer and false prophet named Bar-Jesus," }
+      - { number: 7, text: "an attendant of the proconsul, Sergius Paulus. The proconsul, an intelligent man, sent for Barnabas and Saul because he wanted to hear the word of God." }
+      - { number: 8, text: "But Elymas the sorcerer (for that is what his name means) opposed them and tried to turn the proconsul from the faith." }
+      - { number: 9, text: "Then Saul, who was also called Paul, filled with the Holy Spirit, looked directly at Elymas" }
+      - { number: 10, text: "and said, \"O child of the devil and enemy of all righteousness, you are full of all kinds of deceit and trickery. Will you never stop perverting the straight ways of the Lord?" }
+      - { number: 11, text: "Now look, the hand of the Lord is against you, and for a time you will be blind and unable to see the light of the sun.\" Immediately mist and darkness came over him, and he groped about, seeking someone to lead him by the hand." }
+      - { number: 12, text: "When the proconsul saw what had happened, he believed, for he was astonished at the teaching about the Lord." }
+      - { number: 13, text: "After setting sail from Paphos, Paul and his companions came to Perga in Pamphylia, where John left them to return to Jerusalem." }
+      - { number: 14, text: "Leaving Perga, they traveled inland to Pisidian Antioch, where they entered the synagogue on the Sabbath and sat down." }
+      - { number: 15, text: "After the reading from the Law and the Prophets, the synagogue leaders sent word to them: \"Brothers, if you have a word of encouragement for the people, please speak.\"" }
+      - { number: 16, text: "Paul stood up, motioned with his hand, and began to speak: \"Men of Israel and you Gentiles who fear God, listen to me!\"" }

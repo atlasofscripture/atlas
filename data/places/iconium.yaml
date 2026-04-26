@@ -1,0 +1,12 @@
+id: iconium
+name: Iconium
+altNames: ["Konya"]
+region: Lycaonia / Phrygia, Roman Empire
+coordinates: { lat: 37.8746, lng: 32.4932 }
+summary: >
+  City where Paul and Barnabas spoke boldly in the synagogue and won many
+  Jewish and Greek converts, but were forced to flee a plot to stone them.
+references:
+  - { book: "Acts", chapter: 13, verse: 51 }
+  - { book: "Acts", chapter: 14, verse: 1 }
+  - { book: "Acts", chapter: 14, verse: 21 }

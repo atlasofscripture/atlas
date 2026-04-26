@@ -1,0 +1,10 @@
+id: attalia
+name: Attalia
+altNames: ["Antalya"]
+region: Pamphylia, Roman Empire
+coordinates: { lat: 36.8841, lng: 30.7056 }
+summary: >
+  The principal Pamphylian port. Paul and Barnabas sailed from here back to
+  Antioch in Syria at the end of their first missionary journey.
+references:
+  - { book: "Acts", chapter: 14, verse: 25 }

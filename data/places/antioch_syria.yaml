@@ -1,0 +1,13 @@
+id: antioch_syria
+name: Antioch (Syria)
+altNames: ["Antioch on the Orontes"]
+region: Syria, Roman Empire
+coordinates: { lat: 36.2021, lng: 36.1604 }
+foundedAt: -300
+summary: >
+  Capital of the Roman province of Syria, the third-largest city in the
+  empire after Rome and Alexandria. The first place where followers of
+  Jesus were called "Christians" (Acts 11:26), and the launching point for
+  Paul's missionary journeys.
+sources:
+  - bruce_1977_paul

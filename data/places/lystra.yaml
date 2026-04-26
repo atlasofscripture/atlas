@@ -1,0 +1,14 @@
+id: lystra
+name: Lystra
+region: Lycaonia, Roman Empire
+coordinates: { lat: 37.5825, lng: 32.4561 }
+summary: >
+  Roman colony where Paul healed a man crippled from birth, leading the
+  crowds to call Paul and Barnabas the gods Hermes and Zeus. Shortly after,
+  hostile Jews from Antioch and Iconium arrived; the crowd turned and Paul
+  was stoned and left for dead. He recovered and continued. Hometown of
+  Timothy, who would later join Paul.
+references:
+  - { book: "Acts", chapter: 14, verse: 6 }
+  - { book: "Acts", chapter: 14, verse: 19, note: "Paul stoned" }
+  - { book: "Acts", chapter: 16, verse: 1, note: "Timothy joins Paul" }

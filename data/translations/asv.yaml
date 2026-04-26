@@ -1,0 +1,17 @@
+# American Standard Version (1901)
+# Public domain.
+
+translation: ASV
+license: public domain
+
+passages:
+  Acts/13:
+    verses:
+      - { number: 1, text: "Now there were at Antioch, in the church that was there, prophets and teachers, Barnabas, and Symeon that was called Niger, and Lucius of Cyrene, and Manaen the foster-brother of Herod the tetrarch, and Saul." }
+      - { number: 2, text: "And as they ministered to the Lord, and fasted, the Holy Spirit said, Separate me Barnabas and Saul for the work whereunto I have called them." }
+      - { number: 3, text: "Then, when they had fasted and prayed and laid their hands on them, they sent them away." }
+      - { number: 4, text: "So they, being sent forth by the Holy Spirit, went down to Seleucia; and from thence they sailed to Cyprus." }
+      - { number: 5, text: "And when they were at Salamis, they proclaimed the word of God in the synagogues of the Jews: and they had also John as their attendant." }
+      - { number: 6, text: "And when they had gone through the whole island unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name was Bar-Jesus;" }
+      - { number: 7, text: "who was with the proconsul, Sergius Paulus, a man of understanding. The same called unto him Barnabas and Saul, and sought to hear the word of God." }
+      - { number: 13, text: "Now Paul and his company set sail from Paphos, and came to Perga in Pamphylia: and John departed from them and returned to Jerusalem." }

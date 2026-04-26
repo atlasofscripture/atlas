@@ -1,0 +1,38 @@
+# Relationships drive the influence layer.
+# Each entry is a directed edge: { from: <person id>, to: <person id>, type, references? }
+#
+# Influence types currently rendered: mentored, discipled, taught,
+# prophesied_to, commissioned, wrote_to, planted_church.
+#
+# Family/kinship types (father, mother, spouse, sibling) are stored here too
+# but are not yet rendered on the globe — they'll feed the future genealogy
+# layer.
+
+relationships:
+  - from: barnabas
+    to: paul
+    type: commissioned
+    references:
+      - { book: "Acts", chapter: 9, verse: 27 }
+    note: "Vouched for Paul before the apostles in Jerusalem"
+
+  - from: barnabas
+    to: john_mark
+    type: mentored
+    references:
+      - { book: "Acts", chapter: 15, verse: 39 }
+    note: "Took Mark to Cyprus after the dispute with Paul"
+
+  - from: paul
+    to: john_mark
+    type: mentored
+    references:
+      - { book: "2 Timothy", chapter: 4, verse: 11 }
+    note: "Later reconciliation: 'he is useful to me for ministry'"
+
+  - from: paul
+    to: sergius_paulus
+    type: prophesied_to
+    references:
+      - { book: "Acts", chapter: 13, verse: 7 }
+    note: "Conversion of the Roman proconsul"

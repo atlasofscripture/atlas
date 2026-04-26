@@ -1,0 +1,55 @@
+id: john_mark_departure
+name: John Mark's Departure at Perga
+category: religious
+year: 46
+startYear: 46
+endYear: 46
+coordinates: { lat: 36.9614, lng: 30.8543 }
+summary: >
+  At Perga in Pamphylia, John Mark left Paul and Barnabas and returned to
+  Jerusalem. The text gives no reason. Acts 15:38 later refers to him as
+  one "who had deserted them in Pamphylia." Why he left has been debated
+  for centuries.
+references:
+  - { book: "Acts", chapter: 13, verse: 13 }
+  - { book: "Acts", chapter: 15, verse: 38 }
+  - { book: "Acts", chapter: 15, verse: 39, note: "The split between Paul and Barnabas" }
+views:
+  - label: "Homesickness or fear"
+    summary: >
+      The traditional reading: a young man, far from home and facing the
+      hardships of inland travel, lost his nerve. Chrysostom favored this
+      reading; it explains Paul's later reluctance to take him on the
+      second journey.
+    confidence: majority
+    sources:
+      - chrysostom_homilies
+      - bruce_1977_paul
+  - label: "Theological disagreement over Gentile inclusion"
+    summary: >
+      Some modern scholars argue that Mark, more closely tied to the
+      Jerusalem church, became uncomfortable with the Gentile mission as
+      it developed in Cyprus and the move into the interior. The conflict
+      between Paul and the Jerusalem-Antioch axis surfaces shortly after.
+    confidence: minority
+    sources:
+      - dunn_2009_beginning
+  - label: "Health-related, possibly Paul's illness"
+    summary: >
+      A reading drawing on Galatians 4:13 — "you know it was because of an
+      illness that I first preached the gospel to you" — that Paul fell
+      ill in Pamphylia and changed plans, with Mark unwilling to follow
+      the new route into the highlands. Ramsay popularized this view.
+    confidence: speculative
+    sources:
+      - ramsay_1895_st_paul
+  - label: "Family obligation"
+    summary: >
+      Mark had family in Jerusalem (his mother Mary's house was a meeting
+      place for the church, Acts 12:12). Some suggest he was recalled.
+    confidence: speculative
+    sources:
+      - bruce_1977_paul
+sources:
+  - bruce_1977_paul
+  - dunn_2009_beginning

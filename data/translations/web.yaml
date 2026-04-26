@@ -1,0 +1,8 @@
+# World English Bible
+# Public domain.
+
+translation: WEB
+license: public domain
+
+passages: {}
+# Add passages here as you build out coverage. Format follows kjv.yaml.

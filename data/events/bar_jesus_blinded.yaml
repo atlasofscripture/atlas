@@ -1,0 +1,15 @@
+id: bar_jesus_blinded
+name: Blinding of Bar-Jesus
+category: miraculous
+year: 46
+coordinates: { lat: 34.7571, lng: 32.4137 }
+summary: >
+  At Paphos, the Jewish magician Bar-Jesus (also called Elymas) opposed Paul
+  and Barnabas before the proconsul Sergius Paulus. Paul, "filled with the
+  Holy Spirit," pronounced him blind for a season. Sergius Paulus, seeing
+  what happened, believed.
+references:
+  - { book: "Acts", chapter: 13, verse: 6 }
+  - { book: "Acts", chapter: 13, verse: 11 }
+sources:
+  - bruce_1977_paul

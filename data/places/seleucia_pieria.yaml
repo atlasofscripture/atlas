@@ -1,0 +1,12 @@
+id: seleucia_pieria
+name: Seleucia
+altNames: ["Seleucia Pieria"]
+region: Syria, Roman Empire
+coordinates: { lat: 36.1192, lng: 35.9325 }
+foundedAt: -300
+summary: >
+  The Mediterranean port serving Antioch, located about 16 miles down the
+  Orontes river. Paul and Barnabas sailed from here at the start of the
+  first journey.
+references:
+  - { book: "Acts", chapter: 13, verse: 4 }

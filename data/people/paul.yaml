@@ -1,0 +1,22 @@
+id: paul
+name: Paul
+altNames: ["Saul of Tarsus", "Saul"]
+bornAt: 5
+diedAt: 67
+birthplaceId: tarsus
+residenceId: antioch_syria
+journeyId: paul_first_journey
+role: Apostle to the Gentiles
+summary: >
+  A Jewish Pharisee from Tarsus who, after a transformative experience on the
+  road to Damascus, became the most prolific missionary of the early
+  Christian movement. Founded churches across the eastern Roman Empire and
+  authored a substantial portion of the New Testament.
+references:
+  - { book: "Acts", chapter: 9, note: "Conversion on the Damascus road" }
+  - { book: "Acts", chapter: 13, note: "Beginning of first missionary journey" }
+  - { book: "Acts", chapter: 14 }
+  - { book: "Galatians", chapter: 1 }
+sources:
+  - bruce_1977_paul
+  - dunn_2009_beginning

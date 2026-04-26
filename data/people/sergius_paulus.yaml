@@ -1,0 +1,15 @@
+id: sergius_paulus
+name: Sergius Paulus
+bornAt: -10
+diedAt: 70
+residenceId: paphos
+role: Roman proconsul of Cyprus
+summary: >
+  The Roman proconsul of Cyprus during Paul's visit (~46 CE). Acts describes
+  him as "an intelligent man" who summoned Barnabas and Paul to hear the word
+  of God, and who came to faith after witnessing the blinding of the magician
+  Bar-Jesus (Elymas).
+references:
+  - { book: "Acts", chapter: 13, verse: 7 }
+sources:
+  - bruce_1977_paul

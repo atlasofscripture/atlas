@@ -1,0 +1,31 @@
+# Citation registry. Every claim in the data should reference one or more
+# entries here. Each source has a stable id used as a foreign key from
+# entity files.
+
+- id: bruce_1977_paul
+  author: F. F. Bruce
+  year: 1977
+  title: "Paul: Apostle of the Heart Set Free"
+  publisher: Eerdmans
+  type: book
+
+- id: dunn_2009_beginning
+  author: James D. G. Dunn
+  year: 2009
+  title: "Beginning from Jerusalem (Christianity in the Making, Vol. 2)"
+  publisher: Eerdmans
+  type: book
+
+- id: ramsay_1895_st_paul
+  author: William M. Ramsay
+  year: 1895
+  title: "St. Paul the Traveller and the Roman Citizen"
+  publisher: Hodder & Stoughton
+  type: book
+
+- id: chrysostom_homilies
+  author: John Chrysostom
+  year: 400
+  title: "Homilies on the Acts of the Apostles"
+  type: patristic
+  note: "Date approximate; original Greek with multiple critical editions"

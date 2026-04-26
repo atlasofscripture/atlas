@@ -1,0 +1,14 @@
+id: tarsus
+name: Tarsus
+region: Cilicia, Roman Empire
+coordinates: { lat: 36.9177, lng: 34.8939 }
+foundedAt: -2000
+summary: >
+  Capital of the Roman province of Cilicia and Paul's birthplace. A
+  significant center of Greek learning and trade. Paul cited his Tarsian
+  citizenship as evidence that he was "no citizen of an obscure city"
+  (Acts 21:39).
+references:
+  - { book: "Acts", chapter: 9, verse: 11 }
+  - { book: "Acts", chapter: 21, verse: 39 }
+  - { book: "Acts", chapter: 22, verse: 3 }

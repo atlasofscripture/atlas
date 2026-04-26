@@ -1,0 +1,11 @@
+id: paphos
+name: Paphos
+altNames: ["Nea Paphos"]
+region: Cyprus, Roman Empire
+coordinates: { lat: 34.7571, lng: 32.4137 }
+summary: >
+  Roman capital of Cyprus on the western coast, residence of the proconsul
+  Sergius Paulus. Site of the encounter with the magician Bar-Jesus (Elymas)
+  and the conversion of Sergius Paulus.
+references:
+  - { book: "Acts", chapter: 13, verse: 6 }

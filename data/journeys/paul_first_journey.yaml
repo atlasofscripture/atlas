@@ -1,0 +1,60 @@
+id: paul_first_journey
+name: Paul's First Missionary Journey
+color: "#e8a838"
+startYear: 46
+endYear: 48
+summary: >
+  Paul and Barnabas, set apart by the church at Antioch, traveled through
+  Cyprus and the southern interior of Asia Minor proclaiming the gospel.
+  The journey established Christian communities in Pisidian Antioch,
+  Iconium, Lystra, and Derbe, and set the stage for the Jerusalem Council
+  on Gentile inclusion.
+stops:
+  - placeId: antioch_syria
+    year: 46
+    note: "Set apart by the Holy Spirit (Acts 13:1-3)"
+  - placeId: seleucia_pieria
+    year: 46
+    note: "Sailed from the port of Antioch"
+  - placeId: cyprus_salamis
+    year: 46
+    note: "Preached in synagogues across Cyprus"
+  - placeId: paphos
+    year: 46
+    note: "Encounter with Bar-Jesus; conversion of Sergius Paulus"
+  - placeId: perga
+    year: 46.5
+    note: "John Mark departed and returned to Jerusalem"
+  - placeId: pisidian_antioch
+    year: 47
+    note: "Paul's first recorded sermon (Acts 13:16-41)"
+  - placeId: iconium
+    year: 47
+    note: "Many converts; plot to stone them forced flight"
+  - placeId: lystra
+    year: 47.5
+    note: "Healing of the lame man; Paul stoned and left for dead"
+  - placeId: derbe
+    year: 47.7
+    note: "Eastern terminus; many disciples made"
+  - placeId: lystra
+    year: 47.9
+    note: "Return leg: appointed elders in each church"
+  - placeId: iconium
+    year: 48
+  - placeId: pisidian_antioch
+    year: 48
+  - placeId: perga
+    year: 48
+  - placeId: attalia
+    year: 48.1
+    note: "Sailed back from this Pamphylian port"
+  - placeId: antioch_syria
+    year: 48.2
+    note: "Reported to the church all that God had done"
+references:
+  - { book: "Acts", chapter: 13 }
+  - { book: "Acts", chapter: 14 }
+sources:
+  - bruce_1977_paul
+  - dunn_2009_beginning

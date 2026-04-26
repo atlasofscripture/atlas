@@ -1,0 +1,15 @@
+id: jerusalem
+name: Jerusalem
+altNames: ["Yerushalayim", "Aelia Capitolina"]
+region: Judea
+coordinates: { lat: 31.7683, lng: 35.2137 }
+foundedAt: -3000
+summary: >
+  The political and spiritual center of ancient Israel and Judaism. Site of
+  the First and Second Temples, of Jesus's crucifixion and resurrection,
+  and of the earliest Christian community. Destroyed by Rome in 70 CE.
+references:
+  - { book: "2 Samuel", chapter: 5, verse: 6, note: "Captured by David" }
+  - { book: "1 Kings", chapter: 6, note: "Solomon's Temple" }
+  - { book: "Acts", chapter: 1 }
+  - { book: "Acts", chapter: 15, note: "Jerusalem Council" }

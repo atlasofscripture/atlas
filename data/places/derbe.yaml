@@ -1,0 +1,11 @@
+id: derbe
+name: Derbe
+region: Lycaonia, Roman Empire
+coordinates: { lat: 37.3500, lng: 33.3000 }
+summary: >
+  The easternmost point of Paul's first missionary journey. After making
+  many disciples here, Paul and Barnabas turned back and retraced their
+  route, strengthening the churches they had planted.
+references:
+  - { book: "Acts", chapter: 14, verse: 20 }
+  - { book: "Acts", chapter: 14, verse: 21 }

@@ -1,0 +1,29 @@
+# King James Version (1769 Oxford edition)
+# Public domain in most jurisdictions.
+#
+# Format: passages keyed by "Book/Chapter".
+# This is a starter file with just Acts 13 to demonstrate the reader.
+# Contributors should add more chapters as the atlas expands.
+
+translation: KJV
+license: public domain
+
+passages:
+  Acts/13:
+    verses:
+      - { number: 1, text: "Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul." }
+      - { number: 2, text: "As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them." }
+      - { number: 3, text: "And when they had fasted and prayed, and laid their hands on them, they sent them away." }
+      - { number: 4, text: "So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus." }
+      - { number: 5, text: "And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to their minister." }
+      - { number: 6, text: "And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name was Barjesus:" }
+      - { number: 7, text: "Which was with the deputy of the country, Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God." }
+      - { number: 8, text: "But Elymas the sorcerer (for so is his name by interpretation) withstood them, seeking to turn away the deputy from the faith." }
+      - { number: 9, text: "Then Saul, (who also is called Paul,) filled with the Holy Ghost, set his eyes on him," }
+      - { number: 10, text: "And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?" }
+      - { number: 11, text: "And now, behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand." }
+      - { number: 12, text: "Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord." }
+      - { number: 13, text: "Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem." }
+      - { number: 14, text: "But when they departed from Perga, they came to Antioch in Pisidia, and went into the synagogue on the sabbath day, and sat down." }
+      - { number: 15, text: "And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, Ye men and brethren, if ye have any word of exhortation for the people, say on." }
+      - { number: 16, text: "Then Paul stood up, and beckoning with his hand said, Men of Israel, and ye that fear God, give audience." }

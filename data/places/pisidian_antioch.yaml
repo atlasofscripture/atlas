@@ -1,0 +1,12 @@
+id: pisidian_antioch
+name: Antioch (Pisidia)
+altNames: ["Pisidian Antioch"]
+region: Pisidia, Roman Empire
+coordinates: { lat: 38.3055, lng: 31.1894 }
+summary: >
+  Roman colony in Pisidia where Paul delivered his first recorded sermon
+  (Acts 13:16-41) in the synagogue. After initial reception, opposition
+  drove Paul and Barnabas out.
+references:
+  - { book: "Acts", chapter: 13, verse: 14 }
+  - { book: "Acts", chapter: 14, verse: 21 }

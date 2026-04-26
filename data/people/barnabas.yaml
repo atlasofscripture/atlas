@@ -1,0 +1,21 @@
+id: barnabas
+name: Barnabas
+altNames: ["Joseph the Levite", "Son of Encouragement"]
+bornAt: 0
+diedAt: 61
+birthplaceId: cyprus_salamis
+residenceId: antioch_syria
+journeyId: paul_first_journey
+role: Apostle, early church leader
+summary: >
+  A Levite from Cyprus and one of the earliest leaders of the church in
+  Jerusalem. Vouched for Paul when others were suspicious of him after his
+  conversion, and partnered with him on the first missionary journey before
+  parting ways over a dispute about John Mark.
+references:
+  - { book: "Acts", chapter: 4, verse: 36 }
+  - { book: "Acts", chapter: 9, verse: 27 }
+  - { book: "Acts", chapter: 13 }
+  - { book: "Acts", chapter: 15, verse: 39, note: "Dispute with Paul over John Mark" }
+sources:
+  - bruce_1977_paul

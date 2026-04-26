@@ -1,0 +1,10 @@
+id: perga
+name: Perga
+region: Pamphylia, Roman Empire
+coordinates: { lat: 36.9614, lng: 30.8543 }
+summary: >
+  City in Pamphylia where Paul and Barnabas landed after sailing from
+  Cyprus. John Mark left the company here and returned to Jerusalem.
+references:
+  - { book: "Acts", chapter: 13, verse: 13 }
+  - { book: "Acts", chapter: 14, verse: 25 }

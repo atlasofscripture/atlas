@@ -1,0 +1,20 @@
+id: john_mark
+name: John Mark
+altNames: ["Mark", "John"]
+bornAt: 5
+diedAt: 68
+birthplaceId: jerusalem
+residenceId: jerusalem
+role: Companion of Paul and Barnabas; traditional author of Mark's Gospel
+summary: >
+  A young companion who joined Paul and Barnabas at the start of their first
+  missionary journey but turned back at Perga, returning to Jerusalem. The
+  reason for his departure is not given. The dispute over whether to take him
+  again later split Paul and Barnabas.
+references:
+  - { book: "Acts", chapter: 13, verse: 5 }
+  - { book: "Acts", chapter: 13, verse: 13, note: "Departure at Perga" }
+  - { book: "Acts", chapter: 15, verse: 37 }
+  - { book: "2 Timothy", chapter: 4, verse: 11, note: "Later reconciliation with Paul" }
+sources:
+  - bruce_1977_paul

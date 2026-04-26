@@ -1,0 +1,16 @@
+id: paul_stoned_lystra
+name: Paul Stoned at Lystra
+category: military
+year: 47.5
+coordinates: { lat: 37.5825, lng: 32.4561 }
+summary: >
+  After healing a man crippled from birth and being mistaken for the gods
+  Hermes and Zeus, Paul faced a sudden reversal when Jews from Antioch and
+  Iconium arrived and turned the crowd. Paul was stoned and dragged outside
+  the city, presumed dead. Disciples gathered around him, he rose, and the
+  next day he and Barnabas left for Derbe.
+references:
+  - { book: "Acts", chapter: 14, verse: 19 }
+  - { book: "2 Corinthians", chapter: 11, verse: 25, note: "Paul's later reference: 'once I was stoned'" }
+sources:
+  - bruce_1977_paul

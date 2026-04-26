@@ -1,0 +1,9 @@
+id: cyprus_salamis
+name: Salamis
+region: Cyprus, Roman Empire
+coordinates: { lat: 35.1856, lng: 33.9008 }
+summary: >
+  Major port on the eastern coast of Cyprus, where Paul and Barnabas first
+  landed and preached in the synagogues. Barnabas was originally from Cyprus.
+references:
+  - { book: "Acts", chapter: 13, verse: 5 }
