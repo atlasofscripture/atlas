@@ -21,7 +21,7 @@ export default function Header() {
       </div>
       <nav className="app-header__nav">
         <a
-          href="https://github.com/atlasofscripture"
+          href="https://github.com/atlasofscripture/atlas"
           target="_blank"
           rel="noreferrer"
         >

@@ -4,6 +4,8 @@
 
 **Atlas of Scripture** is an open-source interactive 3D globe for exploring the people, places, events, and journeys of scripture across time. It includes a synchronized side-by-side translation reader, a timeline scrubber that animates the world as it changes, and explicit support for showing where biblical accounts conflict or scholars disagree.
 
+![Atlas of Scripture screenshot](docs/screenshot.png)
+
 It's a study tool *and* an academic resource. It treats scholarly disagreement and textual contention as first-class features rather than papering over them.
 
 - **Website:** https://atlasofscripture.org
